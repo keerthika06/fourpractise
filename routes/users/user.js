@@ -10,3 +10,7 @@ router.route("/").post(userController.register)
 router.route("/login").post(userController.login).delete(userController.logout)
 
 router.route("/updateProfilePic")
+.put(upload.single("image"),userController.updateUserProfilePic)
+.get(checkUserLoggedIn,userController.getProfile)
+
+module.exports = router
