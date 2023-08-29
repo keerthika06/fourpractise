@@ -1,0 +1,149 @@
+
+
+{
+
+  "layoutType": "Tile1ByMany",
+
+  "title": "Stunning Every Ear",
+
+  "bannerImage": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/StunnigEveryEarTopBannernew.png",
+
+  "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-gold-category&expand=availability,prices,images",
+
+  "itemContentType": "PLP",
+
+  "assets": [
+
+    {
+
+      "itemIndex": "1.1",
+
+      "itemtTitle": "Main Section",
+
+      "itemTitleColor": "#832729",
+
+      "itemThumbnail": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/StunnigEveryEarTopBannerlive3.jpg",
+
+      "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-earrings&expand=availability,prices,images",
+
+      "itemContentType": "PLP",
+
+      "itemDescription": "",
+
+      "itemDescriptionColor": "",
+
+      "itemNeedsToDisplay": "true",
+
+      "itemTitleNeedsToDisplay": "true",
+
+      "discount": ""
+
+    },
+
+    {
+
+      "itemIndex": "1.2",
+
+      "itemtTitle": "Jhumkas",
+
+      "itemTitleColor": "#832729",
+
+      "itemThumbnail": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/jhumkasapplivenew2.jpg",
+
+      "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-jhumka-earrings&expand=availability,prices,images",
+
+      "itemContentType": "PLP",
+
+      "itemDescription": "",
+
+      "itemDescriptionColor": "",
+
+      "itemNeedsToDisplay": "true",
+
+      "itemTitleNeedsToDisplay": "true",
+
+      "discount": ""
+
+    },
+
+    {
+
+      "itemIndex": "1.3",
+
+      "itemtTitle": "Drops",
+
+      "itemTitleColor": "#832729",
+
+      "itemThumbnail": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/dropsapplivenew2.jpg",
+
+      "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-long-drop-earrings&expand=availability,prices,images",
+
+      "itemContentType": "PLP",
+
+      "itemDescription": "",
+
+      "itemDescriptionColor": "",
+
+      "itemNeedsToDisplay": "true",
+
+      "itemTitleNeedsToDisplay": "true",
+
+      "discount": ""
+
+    },
+
+    {
+
+      "itemIndex": "1.4",
+
+      "itemtTitle": "studs",
+
+      "itemTitleColor": "#832729",
+
+      "itemThumbnail": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/studsapplivenew2.jpg",
+
+      "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-gold-stud-earrings&expand=availability,prices,images",
+
+      "itemContentType": "PLP",
+
+      "itemDescription": "",
+
+      "itemDescriptionColor": "",
+
+      "itemNeedsToDisplay": "true",
+
+      "itemTitleNeedsToDisplay": "true",
+
+      "discount": ""
+
+    },
+
+    {
+
+      "itemIndex": "1.5",
+
+      "itemtTitle": "hoops",
+
+      "itemTitleColor": "#832729",
+
+      "itemThumbnail": "https://staticimg.titan.co.in/MobileApp/Jewellery/Banners/newapp/stunningeveryear/hoopsapplivenew2.jpg",
+
+      "itemContentLink": "https://sf-preprd-tanapp.titan.co.in/productManagement/search?refine_1=cgid=tq-gold-hoop-earrings&expand=availability,prices,images",
+
+      "itemContentType": "PLP",
+
+      "itemDescription": "",
+
+      "itemDescriptionColor": "",
+
+      "itemNeedsToDisplay": "true",
+
+      "itemTitleNeedsToDisplay": "true",
+
+      "discount": ""
+
+    }
+
+  ]
+
+}
